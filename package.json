@@ -1,0 +1,15 @@
+{
+  "name": "PontoSina",
+  "version": "0.0.1",
+  "description": "my fisrt backend ever",
+  "main": "server.js",
+  "author": "Jefferson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "pg": "^8.0.3",
+    "pg-hstore": "^2.3.3",
+    "sequelize-cli": "^5.5.1"
+  }
+}
